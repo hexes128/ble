@@ -117,6 +117,7 @@ public class MainActivity extends AppCompatActivity {
 
         }
     };
+    //14174
     private Handler handler = new Handler();
 
     private ScanCallback scanCallback = new ScanCallback() {
