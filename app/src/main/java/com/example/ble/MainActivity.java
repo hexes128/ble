@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
             }
             else {
 
-            }
+            }////////////5416
         }
     };
     private final BluetoothGattCallback mGattCallback = new BluetoothGattCallback() {
